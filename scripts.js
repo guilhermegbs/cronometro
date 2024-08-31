@@ -1,10 +1,4 @@
-// const horasE1 = document.querySelector("#horas");
-// const minutosE1 = document.querySelector("#minutos");
-// const segundosE1 = document.querySelector("#segundos");
-// const startBtn = document.querySelector("#startBtn");
-// const pauseBtn = document.querySelector("#pauseBtn");
-// const resumeBtn = document.querySelector("#resumeBtn");
-// const resetBtn = document.querySelector("#resetBtn");
+
 
 const horasE1 = document.getElementById("horas");
 const minutosE1 = document.getElementById("minutos");
